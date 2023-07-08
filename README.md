@@ -1,4 +1,4 @@
-# Jpg-Robber
+# Jpg robber
 A python script for stealing Jpg files through the network. 
 This script allows you to identify files with jpg format in the target system and  drives then quickly send and save files to your server through the network.
 
